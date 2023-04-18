@@ -1,3 +1,3 @@
 # Dynamic Turnstiles
 
-This is the documentation for asset package on Unreal Engine market place
+Documentation for our Ureal Engine components
