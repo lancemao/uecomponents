@@ -2,7 +2,7 @@
 
 <br>
 
-<ZoomImg src="./images/apis.png" />
+<ZoomImg src="/turnstile/apis.png" />
 
 ## Enter
 

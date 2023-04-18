@@ -1,6 +1,6 @@
 # Turnstile
 
-<ZoomImg src="./images/1.jpeg" />
+<ZoomImg src="/turnstile/1.jpeg" />
 
 Features:
 
