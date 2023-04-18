@@ -26,10 +26,6 @@ export default defineConfig({
           { text: 'Blueprint APIs', link: '/turnstile/bpapis' }
         ]
       }
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })
