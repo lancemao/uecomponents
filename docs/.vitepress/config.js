@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Unreal Components",
+  base: '/uecomponents/',
   description: "Simple & Easy components for Unreal Engine",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
